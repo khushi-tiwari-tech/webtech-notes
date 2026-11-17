@@ -2,7 +2,7 @@
 
 A free, easy-to-read notes website for the **Web Technology** course of B.Tech CSE, 5th semester, at Quantum School of Technology. The notes follow the official syllabus unit by unit, so you can read them like a book.
 
-**Live site:** https://YOUR-USERNAME.github.io/webtech-notes/
+**Live site:** https://khushi-tiwari-tech.github.io/webtech-notes/
 
 ## Features
 
@@ -55,4 +55,4 @@ Unit 1 has detailed, chapter-style notes. Units 2 to 5 have shorter summaries th
 
 ## Author
 
-Created by YOUR NAME, B.Tech CSE, Quantum University, Roorkee.
+Created by Khushi Tiwari, B.Tech CSE, Quantum University, Roorkee.
